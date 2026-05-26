@@ -1,0 +1,6 @@
+[
+  "test/test_auth.py::test_user_login",
+  "test/test_auth.py::test_user_login_failed",
+  "test/test_auth.py::test_user_reg",
+  "test/test_auth.py::test_user_reg_success"
+]
